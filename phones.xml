@@ -1,0 +1,101 @@
+<iPhones>
+    <iPhone id="iphone13">
+        <icon>images/icon_iphone13.jpg</icon>
+        <model>iPhone 13</model>
+        <color>Starlight</color>
+        <storage>128GB</storage>
+        <quantity>45</quantity>
+        <price>799.00</price>
+        <description>The iPhone 13 features a dual-camera system and A15 Bionic chip.</description>
+    </iPhone>
+    <iPhone id="iphone13pro">
+        <icon>images/icon_iphone13pro.jpg</icon>
+        <model>iPhone 13 Pro</model>
+        <color>Graphite</color>
+        <storage>256GB</storage>
+        <quantity>30</quantity>
+        <price>999.00</price>
+        <description>The iPhone 13 Pro offers ProMotion display and advanced photography features.</description>
+    </iPhone>
+    <iPhone id="iphone13promax">
+        <icon>images/icon_iphone13promax.jpg</icon>
+        <model>iPhone 13 Pro Max</model>
+        <color>Gold</color>
+        <storage>512GB</storage>
+        <quantity>20</quantity>
+        <price>1,099.00</price>
+        <description>The iPhone 13 Pro Max provides the largest display and longest battery life.</description>
+    </iPhone>
+    <iPhone id="iphone12">
+        <icon>images/icon_iphone12.jpg</icon>
+        <model>iPhone 12</model>
+        <color>Blue</color>
+        <storage>64GB</storage>
+        <quantity>60</quantity>
+        <price>699.00</price>
+        <description>The iPhone 12 features 5G capability and Ceramic Shield for durability.</description>
+    </iPhone>
+    <iPhone id="iphone12pro">
+        <icon>images/icon_iphone12pro.jpg</icon>
+        <model>iPhone 12 Pro</model>
+        <color>Silver</color>
+        <storage>128GB</storage>
+        <quantity>25</quantity>
+        <price>899.00</price>
+        <description>The iPhone 12 Pro includes LiDAR for improved AR experiences.</description>
+    </iPhone>
+    <iPhone id="iphone12promax">
+        <icon>images/icon_iphone12promax.jpg</icon>
+        <model>iPhone 12 Pro Max</model>
+        <color>Pacific Blue</color>
+        <storage>256GB</storage>
+        <quantity>15</quantity>
+        <price>1,099.00</price>
+        <description>The iPhone 12 Pro Max features a 6.7-inch display and pro-grade camera system.</description>
+    </iPhone>
+    <iPhone id="iphone11">
+        <icon>images/icon_iphone11.jpg</icon>
+        <model>iPhone 11</model>
+        <color>White</color>
+        <storage>64GB</storage>
+        <quantity>70</quantity>
+        <price>699.00</price>
+        <description>The iPhone 11 has an all-day battery life and dual-camera system.</description>
+    </iPhone>
+    <iPhone id="iphone11pro">
+        <icon>images/icon_iphone11pro.jpg</icon>
+        <model>iPhone 11 Pro</model>
+        <color>Midnight Green</color>
+        <storage>256GB</storage>
+        <quantity>40</quantity>
+        <price>999.00</price>
+        <description>The iPhone 11 Pro is designed for professional-quality photography.</description>
+    </iPhone>
+    <iPhone id="iphone11promax">
+        <icon>images/icon_iphone11promax.jpg</icon>
+        <model>iPhone 11 Pro Max</model>
+        <color>Space Gray</color>
+        <storage>512GB</storage>
+        <quantity>10</quantity>
+        <price>1,099.00</price>
+        <description>The iPhone 11 Pro Max delivers the most powerful performance and features.</description>
+    </iPhone>
+    <iPhone id="iphoneSE">
+        <icon>images/icon_iphoneSE.jpg</icon>
+        <model>iPhone SE</model>
+        <color>Black</color>
+        <storage>64GB</storage>
+        <quantity>80</quantity>
+        <price>399.00</price>
+        <description>The iPhone SE offers powerful performance in a compact design.</description>
+    </iPhone>
+    <iPhone id="iphoneXR">
+        <icon>images/icon_iphoneXR.jpg</icon>
+        <model>iPhone XR</model>
+        <color>Coral</color>
+        <storage>128GB</storage>
+        <quantity>50</quantity>
+        <price>599.00</price>
+        <description>The iPhone XR combines a Liquid Retina display with excellent battery life.</description>
+    </iPhone>
+</iPhones>
